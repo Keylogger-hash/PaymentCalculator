@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\bin\Debug\PaymentCalculator.exe.config
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\bin\Debug\PaymentCalculator.exe
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\bin\Debug\PaymentCalculator.pdb
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.Form1.resources
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.Properties.Resources.resources
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.exe
+C:\Users\Acer\source\repos\PaymentCalculator\PaymentCalculator\obj\Debug\PaymentCalculator.pdb
